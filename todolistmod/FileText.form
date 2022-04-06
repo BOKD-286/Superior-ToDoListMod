@@ -40,4 +40,4 @@
                   <Group type="102" alignment="0" attributes="0">
                       <Component id="ModifyButton" min="-2" max="-2" attributes="0"/>
                       <EmptySpace type="unrelated" max="-2" attributes="0"/>
-                   
+                      <Component id="SaveButton" min="-2" max="-2" attr
