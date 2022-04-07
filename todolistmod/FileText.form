@@ -41,4 +41,5 @@
                       <Component id="ModifyButton" min="-2" max="-2" attributes="0"/>
                       <EmptySpace type="unrelated" max="-2" attributes="0"/>
                       <Component id="SaveButton" min="-2" max="-2" attributes="0"/>
-                      <EmptySpace
+                      <EmptySpace max="-2" attributes="0"/>
+                
