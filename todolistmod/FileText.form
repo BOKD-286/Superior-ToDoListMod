@@ -46,3 +46,4 @@
                       <EmptySpace type="separate" max="-2" attributes="0"/>
                       <Component id="ProgressDisplay" min="-2" pref="100" max="-2" attributes="0"/>
                       <EmptySpace pref="176" max="32767" attributes="0"/>
+                      <Component id="ClearListButton" m
