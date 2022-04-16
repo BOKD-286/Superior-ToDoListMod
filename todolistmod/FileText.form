@@ -62,4 +62,5 @@
               <Component id="FileName" min="-2" max="-2" attributes="0"/>
               <EmptySpace max="-2" attributes="0"/>
               <Component id="TextDisplayScrollPane" min="-2" pref="425" max="-2" attributes="0"/>
-              <EmptySpace max
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" gr
