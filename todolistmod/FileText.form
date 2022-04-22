@@ -70,4 +70,5 @@
                       <Component id="SaveButton" min="-2" pref="38" max="-2" attributes="0"/>
                   </Group>
                   <Component id="CalcProgressButton" alignment="0" max="32767" attributes="0"/>
-                  <Component id="ProgressDisplay" alig
+                  <Component id="ProgressDisplay" alignment="0" max="32767" attributes="0"/>
+                  <
