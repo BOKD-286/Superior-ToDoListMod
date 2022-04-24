@@ -75,4 +75,6 @@
                   <Component id="ExitButton" alignment="0" max="32767" attributes="0"/>
               </Group>
               <EmptySpace max="-2" attributes="0"/>
-      
+          </Group>
+      </Group>
+    </DimensionLayout>
