@@ -72,4 +72,5 @@
                   <Component id="CalcProgressButton" alignment="0" max="32767" attributes="0"/>
                   <Component id="ProgressDisplay" alignment="0" max="32767" attributes="0"/>
                   <Component id="ClearListButton" alignment="0" max="32767" attributes="0"/>
-                  <Component id="ExitBu
+                  <Component id="ExitButton" alignment="0" max="32767" attributes="0"/>
+   
