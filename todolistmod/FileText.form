@@ -80,4 +80,4 @@
     </DimensionLayout>
   </Layout>
   <SubComponents>
-    <Conta
+    <Container class="javax.swing.JScrollPane" name="TextDisp
