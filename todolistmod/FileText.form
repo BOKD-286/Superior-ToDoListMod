@@ -80,4 +80,6 @@
     </DimensionLayout>
   </Layout>
   <SubComponents>
-    <Container class="javax.swing.JScrollPane" name="TextDisp
+    <Container class="javax.swing.JScrollPane" name="TextDisplayScrollPane">
+      <AuxValues>
+        <A
