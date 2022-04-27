@@ -82,4 +82,7 @@
   <SubComponents>
     <Container class="javax.swing.JScrollPane" name="TextDisplayScrollPane">
       <AuxValues>
-        <AuxValue name="autoScrollPane" type="java.lang.Boolea
+        <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+      </AuxValues>
+
+      <Layout 
