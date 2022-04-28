@@ -86,4 +86,5 @@
       </AuxValues>
 
       <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
-      <SubCo
+      <SubComponents>
+        <Component class="javax.swing.JTe
