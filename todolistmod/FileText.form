@@ -89,4 +89,5 @@
       <SubComponents>
         <Component class="javax.swing.JTextArea" name="TextFileDisplay">
           <Properties>
-            <Property name="editabl
+            <Property name="editable" type="boolean" value="false"/>
+         
