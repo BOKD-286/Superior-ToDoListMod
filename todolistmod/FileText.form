@@ -90,4 +90,4 @@
         <Component class="javax.swing.JTextArea" name="TextFileDisplay">
           <Properties>
             <Property name="editable" type="boolean" value="false"/>
-            <Property name="background" type="java.awt.Co
+            <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEdit
