@@ -95,4 +95,5 @@
             </Property>
             <Property name="columns" type="int" value="20"/>
             <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
-              <Font name="Palatino
+              <Font name="Palatino Linotype" size="14" style="0"/>
+            
