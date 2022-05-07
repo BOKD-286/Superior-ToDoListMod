@@ -102,4 +102,6 @@
         </Component>
       </SubComponents>
     </Container>
-    <Component class="javax.swing.JLabel" name="File
+    <Component class="javax.swing.JLabel" name="FileName">
+      <Properties>
+        <Prop
