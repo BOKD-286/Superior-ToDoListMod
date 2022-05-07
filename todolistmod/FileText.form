@@ -104,4 +104,4 @@
     </Container>
     <Component class="javax.swing.JLabel" name="FileName">
       <Properties>
-        <Prop
+        <Property name="horizontalAlignment" type="int" 
