@@ -110,4 +110,5 @@
         </Property>
         <Property name="horizontalTextPosition" type="int" value="0"/>
       </Properties>
-    </Comp
+    </Component>
+    <Component class="javax.swing.JB
