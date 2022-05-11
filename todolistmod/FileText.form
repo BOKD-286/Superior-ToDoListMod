@@ -113,4 +113,6 @@
     </Component>
     <Component class="javax.swing.JButton" name="ModifyButton">
       <Properties>
-        <Property name="text" type="java.lang.String" value
+        <Property name="text" type="java.lang.String" value="Modify List"/>
+      </Properties>
+      <Eve
