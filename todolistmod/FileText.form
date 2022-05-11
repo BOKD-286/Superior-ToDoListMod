@@ -111,4 +111,6 @@
         <Property name="horizontalTextPosition" type="int" value="0"/>
       </Properties>
     </Component>
-    <Component class="javax.swing.JB
+    <Component class="javax.swing.JButton" name="ModifyButton">
+      <Properties>
+        <Pro
