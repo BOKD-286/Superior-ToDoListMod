@@ -115,4 +115,5 @@
       <Properties>
         <Property name="text" type="java.lang.String" value="Modify List"/>
       </Properties>
-      <Eve
+      <Events>
+        <EventHandler event="actionPe
