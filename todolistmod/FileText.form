@@ -116,4 +116,6 @@
         <Property name="text" type="java.lang.String" value="Modify List"/>
       </Properties>
       <Events>
-        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="Mod
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="ModifyButtonActionPerformed"/>
+      </Events>
+ 
