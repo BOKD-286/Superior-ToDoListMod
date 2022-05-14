@@ -120,4 +120,5 @@
       </Events>
     </Component>
     <Component class="javax.swing.JButton" name="ExitButton">
-      <Properti
+      <Properties>
+        <Property name="text" type="java.lang.
