@@ -130,4 +130,5 @@
         <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="ExitButtonActionPerformed"/>
       </Events>
     </Component>
-    <Component class="javax
+    <Component class="javax.swing.JButton" name="SaveButton">
+      <Prop
