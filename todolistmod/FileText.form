@@ -131,4 +131,5 @@
       </Events>
     </Component>
     <Component class="javax.swing.JButton" name="SaveButton">
-      <Prop
+      <Properties>
+        <Property name="text" type="jav
