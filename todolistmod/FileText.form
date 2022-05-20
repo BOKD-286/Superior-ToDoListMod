@@ -132,4 +132,5 @@
     </Component>
     <Component class="javax.swing.JButton" name="SaveButton">
       <Properties>
-        <Property name="text" type="jav
+        <Property name="text" type="java.lang.String" value="Save File"/>
+        <Property nam
