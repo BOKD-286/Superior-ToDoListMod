@@ -133,4 +133,7 @@
     <Component class="javax.swing.JButton" name="SaveButton">
       <Properties>
         <Property name="text" type="java.lang.String" value="Save File"/>
-        <Property name="horizontalTextPosition" type="int" value="0"/
+        <Property name="horizontalTextPosition" type="int" value="0"/>
+      </Properties>
+      <Events>
+        <EventHandler 
