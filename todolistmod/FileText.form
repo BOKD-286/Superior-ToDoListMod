@@ -139,4 +139,5 @@
         <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="SaveButtonActionPerformed"/>
       </Events>
     </Component>
-    <Compone
+    <Component class="javax.swing.JLabel" name="ProgressDisplay">
+      <P
