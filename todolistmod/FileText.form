@@ -142,4 +142,4 @@
     <Component class="javax.swing.JLabel" name="ProgressDisplay">
       <Properties>
         <Property name="horizontalAlignment" type="int" value="2"/>
-        <Pro
+        <Property name="text" type="java.lang.String" ed
