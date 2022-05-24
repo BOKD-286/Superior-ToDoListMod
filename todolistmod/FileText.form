@@ -141,4 +141,5 @@
     </Component>
     <Component class="javax.swing.JLabel" name="ProgressDisplay">
       <Properties>
-        <Property name="horiz
+        <Property name="horizontalAlignment" type="int" value="2"/>
+        <Pro
