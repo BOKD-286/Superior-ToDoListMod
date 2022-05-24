@@ -140,4 +140,5 @@
       </Events>
     </Component>
     <Component class="javax.swing.JLabel" name="ProgressDisplay">
-      <P
+      <Properties>
+        <Property name="horiz
