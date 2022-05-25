@@ -142,4 +142,5 @@
     <Component class="javax.swing.JLabel" name="ProgressDisplay">
       <Properties>
         <Property name="horizontalAlignment" type="int" value="2"/>
-        <Property name="text" type="java.lang.String" editor="org.netbeans.modules.form.RADConnectionProper
+        <Property name="text" type="java.lang.String" editor="org.netbeans.modules.form.RADConnectionPropertyEditor">
+          <Connection code="Double.toString(F
