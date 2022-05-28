@@ -147,4 +147,5 @@
         </Property>
         <Property name="horizontalTextPosition" type="int" value="0"/>
       </Properties>
-  
+    </Component>
+    <Component class="javax.swin
