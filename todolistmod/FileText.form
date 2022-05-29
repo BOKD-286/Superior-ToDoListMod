@@ -153,4 +153,4 @@
         <Property name="text" type="java.lang.String" value="Calculate Progress"/>
       </Properties>
       <Events>
-        <EventHandle
+        <EventHandler event="actionPerformed" listener="ja
