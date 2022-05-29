@@ -150,4 +150,5 @@
     </Component>
     <Component class="javax.swing.JButton" name="CalcProgressButton">
       <Properties>
-        <Property name="text" type="j
+        <Property name="text" type="java.lang.String" value="Calculate Progress"/>
+    
