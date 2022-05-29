@@ -149,4 +149,5 @@
       </Properties>
     </Component>
     <Component class="javax.swing.JButton" name="CalcProgressButton">
-      
+      <Properties>
+        <Property name="text" type="j
