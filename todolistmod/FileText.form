@@ -161,4 +161,4 @@
         <Property name="text" type="java.lang.String" value="Clear List"/>
       </Properties>
       <Events>
-        <EventHandler event="actionPerformed"
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parame
