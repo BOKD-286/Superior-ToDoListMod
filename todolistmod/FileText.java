@@ -19,4 +19,4 @@ import java.math.RoundingMode;
  *
  * @author Martin
  */
-publi
+public class FileText extends javax.swing.JFrame {
