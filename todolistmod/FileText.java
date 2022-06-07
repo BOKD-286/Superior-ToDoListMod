@@ -14,4 +14,9 @@ import java.util.logging.Level;
 import java.util.logging.Logger;
 import java.lang.Double;
 import java.math.BigDecimal;
-import java.math.R
+import java.math.RoundingMode;
+/**
+ *
+ * @author Martin
+ */
+publi
