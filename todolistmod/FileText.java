@@ -23,4 +23,7 @@ public class FileText extends javax.swing.JFrame {
 
     /**
      * Creates new form FileText
-     
+     */
+    public FileText() {
+        initComponents();
+   
