@@ -26,4 +26,7 @@ public class FileText extends javax.swing.JFrame {
      */
     public FileText() {
         initComponents();
-   
+    }
+
+    /**
+     * This method is call
