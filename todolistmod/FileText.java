@@ -20,3 +20,7 @@ import java.math.RoundingMode;
  * @author Martin
  */
 public class FileText extends javax.swing.JFrame {
+
+    /**
+     * Creates new form FileText
+     
