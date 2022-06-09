@@ -29,4 +29,5 @@ public class FileText extends javax.swing.JFrame {
     }
 
     /**
-     * This method is called from within the constructor to initialize the for
+     * This method is called from within the constructor to initialize the form.
+     * WARNING: Do NOT modify this code. The con
