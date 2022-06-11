@@ -37,4 +37,5 @@ public class FileText extends javax.swing.JFrame {
     // <editor-fold defaultstate="collapsed" desc="Generated Code">//GEN-BEGIN:initComponents
     private void initComponents() {
 
-        TextDisplayScrollPane = new javax.
+        TextDisplayScrollPane = new javax.swing.JScrollPane();
+        TextFileDisplay = new ja
