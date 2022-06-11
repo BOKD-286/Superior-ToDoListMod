@@ -38,4 +38,5 @@ public class FileText extends javax.swing.JFrame {
     private void initComponents() {
 
         TextDisplayScrollPane = new javax.swing.JScrollPane();
-        TextFileDisplay = new ja
+        TextFileDisplay = new javax.swing.JTextArea();
+        FileName = new javax
