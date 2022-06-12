@@ -41,4 +41,5 @@ public class FileText extends javax.swing.JFrame {
         TextFileDisplay = new javax.swing.JTextArea();
         FileName = new javax.swing.JLabel();
         ModifyButton = new javax.swing.JButton();
-        ExitButton = n
+        ExitButton = new javax.swing.JButton();
+        SaveButton 
