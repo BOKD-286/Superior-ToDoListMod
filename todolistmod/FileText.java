@@ -44,4 +44,5 @@ public class FileText extends javax.swing.JFrame {
         ExitButton = new javax.swing.JButton();
         SaveButton = new javax.swing.JButton();
         ProgressDisplay = new javax.swing.JLabel();
-        Ca
+        CalcProgressButton = new javax.swing.JButton();
+        Cl
