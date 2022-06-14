@@ -48,4 +48,5 @@ public class FileText extends javax.swing.JFrame {
         ClearListButton = new javax.swing.JButton();
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
-        addWindowListener(new jav
+        addWindowListener(new java.awt.event.WindowAdapter() {
+            public voi
