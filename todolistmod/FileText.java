@@ -47,4 +47,5 @@ public class FileText extends javax.swing.JFrame {
         CalcProgressButton = new javax.swing.JButton();
         ClearListButton = new javax.swing.JButton();
 
-        setDefaultCloseOperation(javax.swing.WindowConsta
+        setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
+        addWindowListener(new jav
