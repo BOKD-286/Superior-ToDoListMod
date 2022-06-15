@@ -51,4 +51,7 @@ public class FileText extends javax.swing.JFrame {
         addWindowListener(new java.awt.event.WindowAdapter() {
             public void windowOpened(java.awt.event.WindowEvent evt) {
                 formWindowOpened(evt);
- 
+            }
+        });
+
+        TextFil
