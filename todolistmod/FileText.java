@@ -54,4 +54,5 @@ public class FileText extends javax.swing.JFrame {
             }
         });
 
-        TextFil
+        TextFileDisplay.setEditable(false);
+        TextFileDisplay.
