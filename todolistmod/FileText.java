@@ -55,4 +55,4 @@ public class FileText extends javax.swing.JFrame {
         });
 
         TextFileDisplay.setEditable(false);
-        TextFileDisplay.
+        TextFileDisplay.setBackground(new java.awt.Color(204, 204, 204
