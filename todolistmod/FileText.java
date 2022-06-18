@@ -57,3 +57,4 @@ public class FileText extends javax.swing.JFrame {
         TextFileDisplay.setEditable(false);
         TextFileDisplay.setBackground(new java.awt.Color(204, 204, 204));
         TextFileDisplay.setColumns(20);
+        TextFileDisplay.setFont(new j
