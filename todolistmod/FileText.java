@@ -57,4 +57,6 @@ public class FileText extends javax.swing.JFrame {
         TextFileDisplay.setEditable(false);
         TextFileDisplay.setBackground(new java.awt.Color(204, 204, 204));
         TextFileDisplay.setColumns(20);
-        TextFileDisplay.setFont(new java.awt.Font("Palatino Linotype", 0, 14));
+        TextFileDisplay.setFont(new java.awt.Font("Palatino Linotype", 0, 14)); // NOI18N
+        TextFileDisplay.setRows(5);
+ 
