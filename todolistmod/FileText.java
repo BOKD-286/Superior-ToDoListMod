@@ -59,4 +59,4 @@ public class FileText extends javax.swing.JFrame {
         TextFileDisplay.setColumns(20);
         TextFileDisplay.setFont(new java.awt.Font("Palatino Linotype", 0, 14)); // NOI18N
         TextFileDisplay.setRows(5);
- 
+        TextDisplayScrollPane.setViewportView(
