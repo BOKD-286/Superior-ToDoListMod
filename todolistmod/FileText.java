@@ -62,4 +62,5 @@ public class FileText extends javax.swing.JFrame {
         TextDisplayScrollPane.setViewportView(TextFileDisplay);
 
         FileName.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
-        FileName.setTe
+        FileName.setText(FileInfo.filename);
+        FileName.setHo
