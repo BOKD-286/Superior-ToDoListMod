@@ -61,4 +61,4 @@ public class FileText extends javax.swing.JFrame {
         TextFileDisplay.setRows(5);
         TextDisplayScrollPane.setViewportView(TextFileDisplay);
 
-        FileName.setH
+        FileName.setHorizontalAlignment(javax.swing.SwingConstants.CENT
