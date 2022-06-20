@@ -63,4 +63,4 @@ public class FileText extends javax.swing.JFrame {
 
         FileName.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
         FileName.setText(FileInfo.filename);
-        FileName.setHo
+        FileName.setHorizontalTextPosition(javax.swing.SwingConstants.C
