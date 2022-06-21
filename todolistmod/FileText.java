@@ -66,4 +66,5 @@ public class FileText extends javax.swing.JFrame {
         FileName.setHorizontalTextPosition(javax.swing.SwingConstants.CENTER);
 
         ModifyButton.setText("Modify List");
-        ModifyButton.addActionListener(new java.
+        ModifyButton.addActionListener(new java.awt.event.ActionListener() {
+            public voi
