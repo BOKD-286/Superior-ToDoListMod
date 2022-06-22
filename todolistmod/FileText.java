@@ -72,4 +72,5 @@ public class FileText extends javax.swing.JFrame {
             }
         });
 
-        ExitButton.setTe
+        ExitButton.setText("Close");
+        ExitButton.setCursor(new java.awt.
