@@ -76,4 +76,8 @@ public class FileText extends javax.swing.JFrame {
         ExitButton.setCursor(new java.awt.Cursor(java.awt.Cursor.DEFAULT_CURSOR));
         ExitButton.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
-                ExitButtonActionPerfor
+                ExitButtonActionPerformed(evt);
+            }
+        });
+
+        Save
