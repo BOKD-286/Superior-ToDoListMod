@@ -80,4 +80,5 @@ public class FileText extends javax.swing.JFrame {
             }
         });
 
-        Save
+        SaveButton.setText("Save File");
+        SaveButton.setHorizon
