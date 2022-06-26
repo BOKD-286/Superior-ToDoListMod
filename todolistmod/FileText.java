@@ -82,4 +82,5 @@ public class FileText extends javax.swing.JFrame {
 
         SaveButton.setText("Save File");
         SaveButton.setHorizontalTextPosition(javax.swing.SwingConstants.CENTER);
-        SaveButton.addActionListener(new java.awt
+        SaveButton.addActionListener(new java.awt.event.ActionListener() {
+            pu
