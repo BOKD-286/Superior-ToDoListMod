@@ -89,4 +89,4 @@ public class FileText extends javax.swing.JFrame {
         });
 
         ProgressDisplay.setHorizontalAlignment(javax.swing.SwingConstants.LEFT);
- 
+        ProgressDisplay.setText(Double.toStrin
