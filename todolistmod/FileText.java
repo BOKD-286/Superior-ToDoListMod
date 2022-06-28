@@ -89,4 +89,5 @@ public class FileText extends javax.swing.JFrame {
         });
 
         ProgressDisplay.setHorizontalAlignment(javax.swing.SwingConstants.LEFT);
-        ProgressDisplay.setText(Double.toStrin
+        ProgressDisplay.setText(Double.toString(FileInfo.percent)+ " %");
+        ProgressDisplay.setHor
