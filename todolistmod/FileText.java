@@ -90,4 +90,6 @@ public class FileText extends javax.swing.JFrame {
 
         ProgressDisplay.setHorizontalAlignment(javax.swing.SwingConstants.LEFT);
         ProgressDisplay.setText(Double.toString(FileInfo.percent)+ " %");
-        ProgressDisplay.setHorizontalTextPosition(javax.swing.SwingConstants
+        ProgressDisplay.setHorizontalTextPosition(javax.swing.SwingConstants.CENTER);
+
+        CalcProgressButton.setText("C
