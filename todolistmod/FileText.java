@@ -93,4 +93,4 @@ public class FileText extends javax.swing.JFrame {
         ProgressDisplay.setHorizontalTextPosition(javax.swing.SwingConstants.CENTER);
 
         CalcProgressButton.setText("Calculate Progress");
-        CalcProgressButton.addA
+        CalcProgressButton.addActionListener(new java.awt.event.ActionListener(
