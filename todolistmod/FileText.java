@@ -92,4 +92,5 @@ public class FileText extends javax.swing.JFrame {
         ProgressDisplay.setText(Double.toString(FileInfo.percent)+ " %");
         ProgressDisplay.setHorizontalTextPosition(javax.swing.SwingConstants.CENTER);
 
-        CalcProgressButton.setText("C
+        CalcProgressButton.setText("Calculate Progress");
+        CalcProgressButton.addA
