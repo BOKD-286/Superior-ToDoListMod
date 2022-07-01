@@ -94,4 +94,5 @@ public class FileText extends javax.swing.JFrame {
 
         CalcProgressButton.setText("Calculate Progress");
         CalcProgressButton.addActionListener(new java.awt.event.ActionListener() {
-            public void actionPerform
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+      
