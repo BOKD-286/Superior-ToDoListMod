@@ -100,4 +100,4 @@ public class FileText extends javax.swing.JFrame {
         });
 
         ClearListButton.setText("Clear List");
-        Clea
+        ClearListButton.addActionListener(new java.aw
