@@ -102,4 +102,6 @@ public class FileText extends javax.swing.JFrame {
         ClearListButton.setText("Clear List");
         ClearListButton.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
-                ClearListButtonAc
+                ClearListButtonActionPerformed(evt);
+            }
+      
