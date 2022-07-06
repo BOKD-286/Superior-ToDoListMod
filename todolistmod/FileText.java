@@ -106,4 +106,5 @@ public class FileText extends javax.swing.JFrame {
             }
         });
 
-        javax.swing.GroupLayout la
+        javax.swing.GroupLayout layout = new javax.swing.GroupLayout(getContentPane());
+     
