@@ -104,4 +104,6 @@ public class FileText extends javax.swing.JFrame {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 ClearListButtonActionPerformed(evt);
             }
-      
+        });
+
+        javax.swing.GroupLayout la
