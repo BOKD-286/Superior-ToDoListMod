@@ -108,4 +108,5 @@ public class FileText extends javax.swing.JFrame {
 
         javax.swing.GroupLayout layout = new javax.swing.GroupLayout(getContentPane());
         getContentPane().setLayout(layout);
-        
+        layout.setHorizontalGroup(
+            layout.createParall
