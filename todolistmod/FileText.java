@@ -111,4 +111,5 @@ public class FileText extends javax.swing.JFrame {
         layout.setHorizontalGroup(
             layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGroup(layout.createSequentialGroup()
-      
+                .addContainerGap()
+                .addGroup(la
