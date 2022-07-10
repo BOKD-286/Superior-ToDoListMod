@@ -114,4 +114,4 @@ public class FileText extends javax.swing.JFrame {
                 .addContainerGap()
                 .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
                     .addGroup(layout.createSequentialGroup()
-        
+                        .addComponent(TextDisplayScrollPane)
