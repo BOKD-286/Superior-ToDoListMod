@@ -117,4 +117,5 @@ public class FileText extends javax.swing.JFrame {
                         .addComponent(TextDisplayScrollPane)
                         .addContainerGap())
                     .addGroup(layout.createSequentialGroup()
-                        .addComponent(FileName, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE
+                        .addComponent(FileName, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
+                        .add
