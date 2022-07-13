@@ -119,4 +119,5 @@ public class FileText extends javax.swing.JFrame {
                     .addGroup(layout.createSequentialGroup()
                         .addComponent(FileName, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
                         .addGap(33, 33, 33))
-                    .addGroup(layout
+                    .addGroup(layout.createSequentialGroup()
+                        .add
