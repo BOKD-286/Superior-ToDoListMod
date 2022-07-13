@@ -121,4 +121,4 @@ public class FileText extends javax.swing.JFrame {
                         .addGap(33, 33, 33))
                     .addGroup(layout.createSequentialGroup()
                         .addComponent(ModifyButton)
-               
+                        .addPreferredGap(javax.swing.LayoutStyle.Co
