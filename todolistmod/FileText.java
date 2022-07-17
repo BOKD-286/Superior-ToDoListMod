@@ -125,4 +125,5 @@ public class FileText extends javax.swing.JFrame {
                         .addComponent(SaveButton)
                         .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
                         .addComponent(CalcProgressButton)
-                 
+                        .addGap(18, 18, 18)
+                      
