@@ -127,4 +127,5 @@ public class FileText extends javax.swing.JFrame {
                         .addComponent(CalcProgressButton)
                         .addGap(18, 18, 18)
                         .addComponent(ProgressDisplay, javax.swing.GroupLayout.PREFERRED_SIZE, 100, javax.swing.GroupLayout.PREFERRED_SIZE)
-                        .addPreferredGap(javax.swing.LayoutStyle.Component
+                        .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, 176, Short.MAX_VALUE)
+       
