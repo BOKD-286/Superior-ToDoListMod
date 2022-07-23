@@ -131,4 +131,4 @@ public class FileText extends javax.swing.JFrame {
                         .addComponent(ClearListButton, javax.swing.GroupLayout.PREFERRED_SIZE, 85, javax.swing.GroupLayout.PREFERRED_SIZE)
                         .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
                         .addComponent(ExitButton, javax.swing.GroupLayout.PREFERRED_SIZE, 200, javax.swing.GroupLayout.PREFERRED_SIZE)
-             
+                        .addGap(0, 10, Short.MAX_VALUE))))
