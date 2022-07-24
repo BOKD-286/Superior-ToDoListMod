@@ -136,4 +136,5 @@ public class FileText extends javax.swing.JFrame {
         layout.setVerticalGroup(
             layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGroup(layout.createSequentialGroup()
-                .addContainerGa
+                .addContainerGap()
+                .addComponent(FileName)
