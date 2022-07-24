@@ -138,3 +138,4 @@ public class FileText extends javax.swing.JFrame {
             .addGroup(layout.createSequentialGroup()
                 .addContainerGap()
                 .addComponent(FileName)
+                .addPreferredGap(javax.swing.La
