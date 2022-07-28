@@ -142,4 +142,4 @@ public class FileText extends javax.swing.JFrame {
                 .addComponent(TextDisplayScrollPane, javax.swing.GroupLayout.PREFERRED_SIZE, 425, javax.swing.GroupLayout.PREFERRED_SIZE)
                 .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
                 .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-                    .addComponent(ModifyButton, javax.swing.
+                    .addComponent(ModifyButton, javax.swing.GroupLayout.Alignment.TRAILING, javax.swing.Gro
