@@ -153,4 +153,7 @@ public class FileText extends javax.swing.JFrame {
                 .addContainerGap())
         );
 
-        pack(
+        pack();
+    }// </editor-fold>//GEN-END:initComponents
+
+    
