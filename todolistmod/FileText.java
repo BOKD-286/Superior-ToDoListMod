@@ -156,4 +156,4 @@ public class FileText extends javax.swing.JFrame {
         pack();
     }// </editor-fold>//GEN-END:initComponents
 
-    private void formWindowOpened(java.awt.event
+    private void formWindowOpened(java.awt.event.WindowEvent evt) {//GEN-FIRST:event_formWind
