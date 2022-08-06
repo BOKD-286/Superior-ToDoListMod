@@ -158,4 +158,5 @@ public class FileText extends javax.swing.JFrame {
 
     private void formWindowOpened(java.awt.event.WindowEvent evt) {//GEN-FIRST:event_formWindowOpened
         try {
-            BufferedReader reader = new BufferedReader(new FileReader(FileIn
+            BufferedReader reader = new BufferedReader(new FileReader(FileInfo.filename));
+            TextFileDisplay.read(re
