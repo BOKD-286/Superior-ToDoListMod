@@ -162,4 +162,5 @@ public class FileText extends javax.swing.JFrame {
             TextFileDisplay.read(reader, evt);
             reader.close();
             TextFileDisplay.requestFocus();
-        } catch
+        } catch (IOException ex) {
+            Logger.ge
