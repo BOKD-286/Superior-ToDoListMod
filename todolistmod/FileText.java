@@ -161,4 +161,5 @@ public class FileText extends javax.swing.JFrame {
             BufferedReader reader = new BufferedReader(new FileReader(FileInfo.filename));
             TextFileDisplay.read(reader, evt);
             reader.close();
-       
+            TextFileDisplay.requestFocus();
+        } catch
