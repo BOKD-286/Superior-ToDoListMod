@@ -166,4 +166,5 @@ public class FileText extends javax.swing.JFrame {
             Logger.getLogger(FileText.class.getName()).log(Level.SEVERE, null, ex);
         }
         
-        tr
+        try{ 
+            BufferedReader reader = new
