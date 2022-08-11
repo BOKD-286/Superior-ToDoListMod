@@ -168,4 +168,7 @@ public class FileText extends javax.swing.JFrame {
         
         try{ 
             BufferedReader reader = new BufferedReader(new FileReader(FileInfo.filename));
-            String line = reader.r
+            String line = reader.readLine();
+        
+            while(line != null){
+     
