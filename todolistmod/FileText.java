@@ -171,4 +171,5 @@ public class FileText extends javax.swing.JFrame {
             String line = reader.readLine();
         
             while(line != null){
-     
+                if(line.contains("[]"))
+             
