@@ -175,4 +175,6 @@ public class FileText extends javax.swing.JFrame {
                     FileInfo.remainder+=1.0;
                 else if(line.contains("[x]"))
                     FileInfo.progress+=1.0;
-               
+                line = reader.readLine();
+            }
+      
