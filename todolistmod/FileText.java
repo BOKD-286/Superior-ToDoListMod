@@ -173,4 +173,5 @@ public class FileText extends javax.swing.JFrame {
             while(line != null){
                 if(line.contains("[]"))
                     FileInfo.remainder+=1.0;
-         
+                else if(line.contains("[x]"))
+  
