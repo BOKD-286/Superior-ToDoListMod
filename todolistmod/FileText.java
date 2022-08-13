@@ -177,4 +177,5 @@ public class FileText extends javax.swing.JFrame {
                     FileInfo.progress+=1.0;
                 line = reader.readLine();
             }
-      
+            reader.close();
+            FileInfo.percent = FileInfo.
