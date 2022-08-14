@@ -178,4 +178,6 @@ public class FileText extends javax.swing.JFrame {
                 line = reader.readLine();
             }
             reader.close();
-            FileInfo.percent = FileInfo.progress/(FileInfo.progress + FileInfo.remainder)*1
+            FileInfo.percent = FileInfo.progress/(FileInfo.progress + FileInfo.remainder)*100.0;
+        } catch (IOException ex) {
+         
