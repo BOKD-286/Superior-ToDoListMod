@@ -182,4 +182,6 @@ public class FileText extends javax.swing.JFrame {
         } catch (IOException ex) {
             Logger.getLogger(FileText.class.getName()).log(Level.SEVERE, null, ex);
         }
-    }//G
+    }//GEN-LAST:event_formWindowOpened
+
+    private void ExitBut
