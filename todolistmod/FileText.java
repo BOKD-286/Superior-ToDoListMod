@@ -184,4 +184,5 @@ public class FileText extends javax.swing.JFrame {
         }
     }//GEN-LAST:event_formWindowOpened
 
-    private void ExitButtonActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FI
+    private void ExitButtonActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_ExitButtonActionPerformed
+  
