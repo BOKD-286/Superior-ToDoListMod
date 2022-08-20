@@ -190,4 +190,6 @@ public class FileText extends javax.swing.JFrame {
 
     private void ModifyButtonActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_ModifyButtonActionPerformed
         TextFileDisplay.setEditable(true);
-    }//GEN-L
+    }//GEN-LAST:event_ModifyButtonActionPerformed
+
+    private void Sa
