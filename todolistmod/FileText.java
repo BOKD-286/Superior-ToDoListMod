@@ -195,4 +195,6 @@ public class FileText extends javax.swing.JFrame {
     private void SaveButtonActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_SaveButtonActionPerformed
         try{
             BufferedWriter writer = new BufferedWriter(new FileWriter(FileInfo.filename));
-            writer.write(TextFileDi
+            writer.write(TextFileDisplay.getText());
+            writer.close();
+        }
