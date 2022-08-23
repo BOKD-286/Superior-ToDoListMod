@@ -198,3 +198,5 @@ public class FileText extends javax.swing.JFrame {
             writer.write(TextFileDisplay.getText());
             writer.close();
         }
+        catch(IOException ex){
+          
