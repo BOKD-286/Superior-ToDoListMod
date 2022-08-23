@@ -199,4 +199,4 @@ public class FileText extends javax.swing.JFrame {
             writer.close();
         }
         catch(IOException ex){
-          
+            Logger.getLogger(FileText.class.getName()).log(
