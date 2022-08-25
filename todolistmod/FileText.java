@@ -201,4 +201,6 @@ public class FileText extends javax.swing.JFrame {
         catch(IOException ex){
             Logger.getLogger(FileText.class.getName()).log(Level.SEVERE, null, ex);
         }
-    }//GEN-LAST:event_SaveButtonActionPerforme
+    }//GEN-LAST:event_SaveButtonActionPerformed
+
+    private void CalcProgressButtonActionPerf
