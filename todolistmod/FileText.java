@@ -203,4 +203,4 @@ public class FileText extends javax.swing.JFrame {
         }
     }//GEN-LAST:event_SaveButtonActionPerformed
 
-    private void CalcProgressButtonActionPerf
+    private void CalcProgressButtonActionPerformed(java.awt.event.ActionEvent evt) {/
