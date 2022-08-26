@@ -203,4 +203,7 @@ public class FileText extends javax.swing.JFrame {
         }
     }//GEN-LAST:event_SaveButtonActionPerformed
 
-    private void CalcProgressButtonActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_CalcProgressButtonActionPerf
+    private void CalcProgressButtonActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_CalcProgressButtonActionPerformed
+        
+        
+        Double d = BigDec
