@@ -206,4 +206,4 @@ public class FileText extends javax.swing.JFrame {
     private void CalcProgressButtonActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_CalcProgressButtonActionPerformed
         
         
-        Double d = BigDec
+        Double d = BigDecimal.valueOf(new Double(FileInfo.pe
