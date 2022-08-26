@@ -206,4 +206,5 @@ public class FileText extends javax.swing.JFrame {
     private void CalcProgressButtonActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_CalcProgressButtonActionPerformed
         
         
-        Double d = BigDecimal.valueOf(new Double(FileInfo.pe
+        Double d = BigDecimal.valueOf(new Double(FileInfo.percent))
+        .setScale(2, RoundingMode.HALF
