@@ -212,3 +212,4 @@ public class FileText extends javax.swing.JFrame {
         ProgressDisplay.setText(Double.toString(d)+" %");
     }//GEN-LAST:event_CalcProgressButtonActionPerformed
 
+    private void ClearListButtonActionPerforme
