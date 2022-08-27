@@ -210,4 +210,5 @@ public class FileText extends javax.swing.JFrame {
         .setScale(2, RoundingMode.HALF_UP).doubleValue();
         
         ProgressDisplay.setText(Double.toString(d)+" %");
- 
+    }//GEN-LAST:event_CalcProgressButtonActionPerformed
+
