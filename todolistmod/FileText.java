@@ -209,4 +209,5 @@ public class FileText extends javax.swing.JFrame {
         Double d = BigDecimal.valueOf(new Double(FileInfo.percent))
         .setScale(2, RoundingMode.HALF_UP).doubleValue();
         
-        Progres
+        ProgressDisplay.setText(Double.toString(d)+" %");
+ 
