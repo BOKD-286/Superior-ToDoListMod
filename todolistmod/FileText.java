@@ -213,4 +213,5 @@ public class FileText extends javax.swing.JFrame {
     }//GEN-LAST:event_CalcProgressButtonActionPerformed
 
     private void ClearListButtonActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_ClearListButtonActionPerformed
-        String s = T
+        String s = TextFileDisplay.getText();
+        s = s.replaceAll("\\[x\\]
