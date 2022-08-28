@@ -214,4 +214,6 @@ public class FileText extends javax.swing.JFrame {
 
     private void ClearListButtonActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_ClearListButtonActionPerformed
         String s = TextFileDisplay.getText();
-        s = s.replaceAll("\\[x\\]
+        s = s.replaceAll("\\[x\\]", "\\[\\]");
+        
+        TextFileDisplay
