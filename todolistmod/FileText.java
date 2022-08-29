@@ -216,4 +216,5 @@ public class FileText extends javax.swing.JFrame {
         String s = TextFileDisplay.getText();
         s = s.replaceAll("\\[x\\]", "\\[\\]");
         
-        TextFileDisplay
+        TextFileDisplay.setText(s);
+        TextFileDisplay.setC
