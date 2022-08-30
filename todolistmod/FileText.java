@@ -218,4 +218,7 @@ public class FileText extends javax.swing.JFrame {
         
         TextFileDisplay.setText(s);
         TextFileDisplay.setCaretPosition(0);
-    }//GEN-LAST:event_ClearListBu
+    }//GEN-LAST:event_ClearListButtonActionPerformed
+
+    /**
+     * @param args the command line a
