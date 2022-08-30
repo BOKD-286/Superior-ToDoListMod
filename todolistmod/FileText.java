@@ -221,4 +221,6 @@ public class FileText extends javax.swing.JFrame {
     }//GEN-LAST:event_ClearListButtonActionPerformed
 
     /**
-     * @param args the command line a
+     * @param args the command line arguments
+     */
+    public static void main(String
