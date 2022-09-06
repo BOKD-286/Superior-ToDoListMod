@@ -236,4 +236,5 @@ public class FileText extends javax.swing.JFrame {
                     break;
                 }
             }
-        } catch 
+        } catch (ClassNotFoundException ex) {
+            java.util
