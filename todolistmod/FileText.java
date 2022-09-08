@@ -237,4 +237,4 @@ public class FileText extends javax.swing.JFrame {
                 }
             }
         } catch (ClassNotFoundException ex) {
-            java.util.logging.Logger.getLogger(FileText.class.getN
+            java.util.logging.Logger.getLogger(FileText.class.getName()).log(java.util.logging.Level.
