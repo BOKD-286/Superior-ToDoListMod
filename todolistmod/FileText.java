@@ -242,4 +242,5 @@ public class FileText extends javax.swing.JFrame {
             java.util.logging.Logger.getLogger(FileText.class.getName()).log(java.util.logging.Level.SEVERE, null, ex);
         } catch (IllegalAccessException ex) {
             java.util.logging.Logger.getLogger(FileText.class.getName()).log(java.util.logging.Level.SEVERE, null, ex);
-        } catch (javax.swin
+        } catch (javax.swing.UnsupportedLookAndFeelException ex) {
+            java.uti
