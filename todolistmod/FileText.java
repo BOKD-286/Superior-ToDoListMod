@@ -248,4 +248,5 @@ public class FileText extends javax.swing.JFrame {
         //</editor-fold>
 
         /* Create and display the form */
-        java.awt.Eve
+        java.awt.EventQueue.invokeLater(new Runnable() {
+     
