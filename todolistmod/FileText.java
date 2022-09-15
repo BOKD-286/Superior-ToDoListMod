@@ -256,4 +256,5 @@ public class FileText extends javax.swing.JFrame {
         
     }
 
-    // Variab
+    // Variables declaration - do not modify//GEN-BEGIN:variables
+    private ja
