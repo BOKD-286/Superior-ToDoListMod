@@ -251,4 +251,9 @@ public class FileText extends javax.swing.JFrame {
         java.awt.EventQueue.invokeLater(new Runnable() {
             public void run() {
                 new FileText().setVisible(true);
-   
+            }
+        });
+        
+    }
+
+    // Variab
