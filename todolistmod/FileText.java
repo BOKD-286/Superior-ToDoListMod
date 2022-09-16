@@ -257,4 +257,5 @@ public class FileText extends javax.swing.JFrame {
     }
 
     // Variables declaration - do not modify//GEN-BEGIN:variables
-    private ja
+    private javax.swing.JButton CalcProgressButton;
+  
