@@ -261,4 +261,5 @@ public class FileText extends javax.swing.JFrame {
     private javax.swing.JButton ClearListButton;
     private javax.swing.JButton ExitButton;
     private javax.swing.JLabel FileName;
-    private j
+    private javax.swing.JButton ModifyButton;
+    privat
