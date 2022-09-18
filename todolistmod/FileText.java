@@ -263,4 +263,5 @@ public class FileText extends javax.swing.JFrame {
     private javax.swing.JLabel FileName;
     private javax.swing.JButton ModifyButton;
     private javax.swing.JLabel ProgressDisplay;
-    pri
+    private javax.swing.JButton SaveButton;
+    private ja
