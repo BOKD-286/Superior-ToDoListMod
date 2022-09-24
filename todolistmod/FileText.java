@@ -264,4 +264,5 @@ public class FileText extends javax.swing.JFrame {
     private javax.swing.JButton ModifyButton;
     private javax.swing.JLabel ProgressDisplay;
     private javax.swing.JButton SaveButton;
-    private javax.swing.JScrollPane TextDisplayScrollP
+    private javax.swing.JScrollPane TextDisplayScrollPane;
+    private javax.swing.JTextArea TextFileDisp
