@@ -268,4 +268,5 @@ public class FileText extends javax.swing.JFrame {
     private javax.swing.JTextArea TextFileDisplay;
     // End of variables declaration//GEN-END:variables
 
-    private String parseDoub
+    private String parseDouble(double percent) {
+        throw new Unsuppo
