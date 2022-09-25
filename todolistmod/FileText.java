@@ -269,4 +269,4 @@ public class FileText extends javax.swing.JFrame {
     // End of variables declaration//GEN-END:variables
 
     private String parseDouble(double percent) {
-        throw new Unsuppo
+        throw new UnsupportedOperationException("Not support
