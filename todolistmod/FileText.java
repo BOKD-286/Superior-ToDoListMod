@@ -269,4 +269,6 @@ public class FileText extends javax.swing.JFrame {
     // End of variables declaration//GEN-END:variables
 
     private String parseDouble(double percent) {
-        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools 
+        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
+    }
+}
