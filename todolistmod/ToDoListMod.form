@@ -7,4 +7,6 @@
   <SyntheticProperties>
     <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
     <SyntheticProperty name="generateCenter" type="boolean" value="false"/>
-  </SyntheticPro
+  </SyntheticProperties>
+  <Events>
+    <EventHandler event="wind
