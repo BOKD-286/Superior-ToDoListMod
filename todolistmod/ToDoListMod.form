@@ -9,4 +9,4 @@
     <SyntheticProperty name="generateCenter" type="boolean" value="false"/>
   </SyntheticProperties>
   <Events>
-    <EventHandler event="wind
+    <EventHandler event="windowClosing" listener="java.awt.event.WindowListener"
