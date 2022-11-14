@@ -12,4 +12,4 @@
     <EventHandler event="windowClosing" listener="java.awt.event.WindowListener" parameters="java.awt.event.WindowEvent" handler="formWindowClosing"/>
   </Events>
   <AuxValues>
-    <Au
+    <AuxValue name="FormSettings_autoResourcing" type="java.l
