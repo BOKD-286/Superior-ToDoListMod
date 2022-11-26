@@ -14,4 +14,4 @@
   <AuxValues>
     <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
     <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
-    <AuxValue name="FormSettings_gene
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value
