@@ -28,3 +28,4 @@
   <SubComponents>
     <Container class="javax.swing.JPanel" name="ToDoListMod">
       <Properties>
+        <Property name="background" type="java.awt.Col
