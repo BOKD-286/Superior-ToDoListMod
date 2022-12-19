@@ -28,4 +28,5 @@
   <SubComponents>
     <Container class="javax.swing.JPanel" name="ToDoListMod">
       <Properties>
-        <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.Col
+        <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="88" green="91" red="
