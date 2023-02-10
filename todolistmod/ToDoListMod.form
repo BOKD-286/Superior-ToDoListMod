@@ -52,4 +52,4 @@
                   <EmptySpace min="10" pref="10" max="-2" attributes="0"/>
                   <Group type="103" groupAlignment="0" max="-2" attributes="0">
                       <Group type="102" attributes="0">
-                          <Component id="Lo
+                          <Component id="LoadFileButton" min="-2" pref="101" max="-2" attr
