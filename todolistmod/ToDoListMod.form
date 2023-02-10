@@ -50,4 +50,5 @@
                   <EmptySpace min="10" pref="10" max="-2" attributes="0"/>
                   <Component id="FileFieldLabel" min="-2" max="-2" attributes="0"/>
                   <EmptySpace min="10" pref="10" max="-2" attributes="0"/>
-                  <Group type="103" groupAli
+                  <Group type="103" groupAlignment="0" max="-2" attributes="0">
+             
