@@ -56,4 +56,4 @@
                           <EmptySpace max="32767" attributes="0"/>
                           <Component id="ExitButton" min="-2" pref="105" max="-2" attributes="0"/>
                       </Group>
-                      <Componen
+                      <Component id="FileField" min="-2" pref="232" max=
