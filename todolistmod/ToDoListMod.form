@@ -55,4 +55,5 @@
                           <Component id="LoadFileButton" min="-2" pref="101" max="-2" attributes="0"/>
                           <EmptySpace max="32767" attributes="0"/>
                           <Component id="ExitButton" min="-2" pref="105" max="-2" attributes="0"/>
-             
+                      </Group>
+                      <Componen
