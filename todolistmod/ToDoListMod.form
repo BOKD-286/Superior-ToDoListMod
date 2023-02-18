@@ -58,4 +58,6 @@
                       </Group>
                       <Component id="FileField" min="-2" pref="232" max="-2" attributes="0"/>
                   </Group>
-                  <EmptySpace min="30" pref="31" max="3
+                  <EmptySpace min="30" pref="31" max="32767" attributes="0"/>
+              </Group>
+        
