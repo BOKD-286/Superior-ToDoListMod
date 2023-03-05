@@ -69,4 +69,5 @@
                   <Group type="103" groupAlignment="0" attributes="0">
                       <Group type="102" attributes="0">
                           <EmptySpace min="3" pref="3" max="-2" attributes="0"/>
-                          <Component id="FileFieldLabel" min="-2" ma
+                          <Component id="FileFieldLabel" min="-2" max="-2" attributes="0"/>
+          
