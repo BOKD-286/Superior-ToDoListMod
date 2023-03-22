@@ -79,4 +79,7 @@
                       <Component id="LoadFileButton" alignment="0" min="-2" max="-2" attributes="0"/>
                   </Group>
               </Group>
-      
+          </Group>
+        </DimensionLayout>
+      </Layout>
+   
