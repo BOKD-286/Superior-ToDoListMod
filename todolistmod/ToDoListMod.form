@@ -83,4 +83,5 @@
         </DimensionLayout>
       </Layout>
       <SubComponents>
-        <Component class=
+        <Component class="javax.swing.JTextField" name="FileField">
+        
