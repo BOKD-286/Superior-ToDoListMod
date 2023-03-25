@@ -84,4 +84,5 @@
       </Layout>
       <SubComponents>
         <Component class="javax.swing.JTextField" name="FileField">
-        
+          <Events>
+            <EventHandler event="actionPerformed
