@@ -86,4 +86,4 @@
         <Component class="javax.swing.JTextField" name="FileField">
           <Events>
             <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="FileFieldActionPerformed"/>
-            <EventHandler event="k
+            <EventHandler event="keyPressed" listener="java.awt.event.KeyListen
