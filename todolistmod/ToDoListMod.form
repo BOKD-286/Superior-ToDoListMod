@@ -88,4 +88,5 @@
             <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="FileFieldActionPerformed"/>
             <EventHandler event="keyPressed" listener="java.awt.event.KeyListener" parameters="java.awt.event.KeyEvent" handler="FileFieldKeyPressed"/>
           </Events>
-      
+        </Component>
+        <Component class
