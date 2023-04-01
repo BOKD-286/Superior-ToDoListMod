@@ -90,4 +90,5 @@
           </Events>
         </Component>
         <Component class="javax.swing.JLabel" name="FileFieldLabel">
-        
+          <Properties>
+            <Property nam
