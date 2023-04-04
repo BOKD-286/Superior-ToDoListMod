@@ -91,4 +91,4 @@
         </Component>
         <Component class="javax.swing.JLabel" name="FileFieldLabel">
           <Properties>
-            <Property nam
+            <Property name="text" type="java.lang.String" value="Fil
