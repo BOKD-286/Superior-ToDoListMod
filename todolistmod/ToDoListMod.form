@@ -96,4 +96,5 @@
         </Component>
         <Component class="javax.swing.JButton" name="LoadFileButton">
           <Properties>
-            <Property name="text" type="java.lang.
+            <Property name="text" type="java.lang.String" value="Load File"/>
+          </Proper
