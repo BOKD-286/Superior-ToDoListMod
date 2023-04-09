@@ -99,4 +99,4 @@
             <Property name="text" type="java.lang.String" value="Load File"/>
           </Properties>
           <Events>
-            <EventH
+            <EventHandler event="actionPerformed" listener="java.
