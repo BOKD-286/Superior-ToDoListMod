@@ -97,4 +97,6 @@
         <Component class="javax.swing.JButton" name="LoadFileButton">
           <Properties>
             <Property name="text" type="java.lang.String" value="Load File"/>
-          </Proper
+          </Properties>
+          <Events>
+            <EventH
