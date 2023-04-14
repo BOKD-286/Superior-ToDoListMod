@@ -101,4 +101,5 @@
           <Events>
             <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="LoadFileButtonActionPerformed"/>
           </Events>
-     
+        </Component>
+        <Component class="javax.swing.JBu
