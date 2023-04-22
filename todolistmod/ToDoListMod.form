@@ -104,4 +104,4 @@
         </Component>
         <Component class="javax.swing.JButton" name="ExitButton">
           <Properties>
-    
+            <Property name="text" type="java.lang.String" v
