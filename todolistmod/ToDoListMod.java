@@ -26,3 +26,47 @@ public class ToDoListMod extends javax.swing.JFrame {
         FileFieldLabel = new javax.swing.JLabel();
         LoadFileButton = new javax.swing.JButton();
         ExitButton = new javax.swing.JButton();
+
+        setDefaultCloseOperation(javax.swing.WindowConstants.DISPOSE_ON_CLOSE);
+        addWindowListener(new java.awt.event.WindowAdapter() {
+            public void windowClosing(java.awt.event.WindowEvent evt) {
+                formWindowClosing(evt);
+            }
+        });
+
+        ToDoListMod.setBackground(new java.awt.Color(59, 145, 136));
+        ToDoListMod.setBorder(javax.swing.BorderFactory.createTitledBorder("ToDoListMod"));
+
+        FileField.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                FileFieldActionPerformed(evt);
+            }
+        });
+        FileField.addKeyListener(new java.awt.event.KeyAdapter() {
+            public void keyPressed(java.awt.event.KeyEvent evt) {
+                FileFieldKeyPressed(evt);
+            }
+        });
+
+        FileFieldLabel.setText("File Name:");
+
+        LoadFileButton.setText("Load File");
+        LoadFileButton.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                LoadFileButtonActionPerformed(evt);
+            }
+        });
+
+        ExitButton.setText("Cancel");
+        ExitButton.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                ExitButtonActionPerformed(evt);
+            }
+        });
+
+        javax.swing.GroupLayout ToDoListModLayout = new javax.swing.GroupLayout(ToDoListMod);
+        ToDoListMod.setLayout(ToDoListModLayout);
+        ToDoListModLayout.setHorizontalGroup(
+            ToDoListModLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addGroup(ToDoListModLayout.createSequentialGroup()
+                .addGap(10, 10, 10)
