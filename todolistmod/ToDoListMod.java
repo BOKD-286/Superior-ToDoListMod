@@ -70,3 +70,56 @@ public class ToDoListMod extends javax.swing.JFrame {
             ToDoListModLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGroup(ToDoListModLayout.createSequentialGroup()
                 .addGap(10, 10, 10)
+                .addComponent(FileFieldLabel)
+                .addGap(10, 10, 10)
+                .addGroup(ToDoListModLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING, false)
+                    .addGroup(ToDoListModLayout.createSequentialGroup()
+                        .addComponent(LoadFileButton, javax.swing.GroupLayout.PREFERRED_SIZE, 101, javax.swing.GroupLayout.PREFERRED_SIZE)
+                        .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
+                        .addComponent(ExitButton, javax.swing.GroupLayout.PREFERRED_SIZE, 105, javax.swing.GroupLayout.PREFERRED_SIZE))
+                    .addComponent(FileField, javax.swing.GroupLayout.PREFERRED_SIZE, 232, javax.swing.GroupLayout.PREFERRED_SIZE))
+                .addGap(30, 31, Short.MAX_VALUE))
+        );
+        ToDoListModLayout.setVerticalGroup(
+            ToDoListModLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addGroup(ToDoListModLayout.createSequentialGroup()
+                .addGap(11, 11, 11)
+                .addGroup(ToDoListModLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                    .addGroup(ToDoListModLayout.createSequentialGroup()
+                        .addGap(3, 3, 3)
+                        .addComponent(FileFieldLabel))
+                    .addComponent(FileField, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE))
+                .addGap(6, 6, 6)
+                .addGroup(ToDoListModLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
+                    .addComponent(ExitButton)
+                    .addComponent(LoadFileButton)))
+        );
+
+        getContentPane().add(ToDoListMod, java.awt.BorderLayout.CENTER);
+
+        pack();
+    }// </editor-fold>//GEN-END:initComponents
+
+    private void FileFieldActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_FileFieldActionPerformed
+        // TODO add your handling code here:
+    }//GEN-LAST:event_FileFieldActionPerformed
+
+    private void LoadFileButtonActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_LoadFileButtonActionPerformed
+        FileInfo.filename = FileField.getText();
+        FileText f = new FileText();
+        f.setVisible(true);
+        this.setVisible(false);
+    }//GEN-LAST:event_LoadFileButtonActionPerformed
+
+    private void ExitButtonActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_ExitButtonActionPerformed
+        System.exit(0);
+    }//GEN-LAST:event_ExitButtonActionPerformed
+
+    private void FileFieldKeyPressed(java.awt.event.KeyEvent evt) {//GEN-FIRST:event_FileFieldKeyPressed
+        if(evt.getKeyCode() == KeyEvent.VK_ENTER){
+            FileInfo.filename = FileField.getText();
+            FileText f = new FileText();
+            f.setVisible(true);
+            this.setVisible(false);
+        }
+    }//GEN-LAST:event_FileFieldKeyPressed
